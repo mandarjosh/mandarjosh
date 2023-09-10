@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandarjosh&label=Profile%20views&color=0e75b6&style=flat" alt="mandarjosh" /> </p>
 
-- 🔭 I’m currently working on developing**Customer support Chatbot using machine learning.**
+- 🔭 I’m currently working on developing **Customer support Chatbot using machine learning.**
 
 - 🌱 I’m currently learning **Data Science**
 
