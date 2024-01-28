@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python, Machine Learning, Tableau, Powerbi, SQL**
+- 💬 Ask me about **Python, Machine Learning, Tableau, Powerbi, SQL, Mongo DB, **
 
 - 📫 How to reach me **mandarjoshi575@gmail.com**
 
